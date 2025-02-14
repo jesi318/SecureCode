@@ -1,0 +1,14 @@
+D:\secure-code\SecureCode\RaceCondition\bin\Debug\net9.0\RaceCondition.exe
+D:\secure-code\SecureCode\RaceCondition\bin\Debug\net9.0\RaceCondition.deps.json
+D:\secure-code\SecureCode\RaceCondition\bin\Debug\net9.0\RaceCondition.runtimeconfig.json
+D:\secure-code\SecureCode\RaceCondition\bin\Debug\net9.0\RaceCondition.dll
+D:\secure-code\SecureCode\RaceCondition\bin\Debug\net9.0\RaceCondition.pdb
+D:\secure-code\SecureCode\RaceCondition\obj\Debug\net9.0\RaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+D:\secure-code\SecureCode\RaceCondition\obj\Debug\net9.0\RaceCondition.AssemblyInfoInputs.cache
+D:\secure-code\SecureCode\RaceCondition\obj\Debug\net9.0\RaceCondition.AssemblyInfo.cs
+D:\secure-code\SecureCode\RaceCondition\obj\Debug\net9.0\RaceCondition.csproj.CoreCompileInputs.cache
+D:\secure-code\SecureCode\RaceCondition\obj\Debug\net9.0\RaceCondition.dll
+D:\secure-code\SecureCode\RaceCondition\obj\Debug\net9.0\refint\RaceCondition.dll
+D:\secure-code\SecureCode\RaceCondition\obj\Debug\net9.0\RaceCondition.pdb
+D:\secure-code\SecureCode\RaceCondition\obj\Debug\net9.0\RaceCondition.genruntimeconfig.cache
+D:\secure-code\SecureCode\RaceCondition\obj\Debug\net9.0\ref\RaceCondition.dll
